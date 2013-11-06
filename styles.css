@@ -6,6 +6,7 @@ body {
   border: 2px solid black;
   margin-left: auto;
   margin-right: auto;
+  min-height: 400px;
   min-width: 300px;
   padding-left: 15px;
   padding-right: 15px;
@@ -15,8 +16,21 @@ header h1 {
   border-bottom: 1px solid black;
   padding-bottom: 10px;
 }
-
+nav {
+  float: left;
+  position: relative;
+}
+li {
+  position: relative;
+  margin-left: -15px;
+  padding-right: 10px;
+}
+#about h2 {
+  text-align: center;
+  padding-top: 15px;
+}
 footer {
+  clear: both;
   font-size: small;
   font-style: italic;
   text-align: center;
