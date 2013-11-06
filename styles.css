@@ -18,6 +18,7 @@ header h1 {
 }
 nav {
   float: left;
+  min-height: 420px;
   position: relative;
 }
 li {
