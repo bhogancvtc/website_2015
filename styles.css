@@ -1,0 +1,23 @@
+html {
+  background-color: #5ccccc;
+}	
+body {
+  background-color: #eee;
+  border: 2px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 300px;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 50%;
+}
+header h1 {
+  border-bottom: 1px solid black;
+  padding-bottom: 10px;
+}
+
+footer {
+  font-size: small;
+  font-style: italic;
+  text-align: center;
+}
