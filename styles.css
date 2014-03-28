@@ -31,3 +31,25 @@ section {
   background-color:#f87531;
   text-align: center;
 }
+
+#dsWrapper {
+  background: rgba(0,0,0,0.125);
+  max-width: 1024px;
+  width: 100%;
+  margin: 0 auto;
+  min-height: 768px;
+  border: 1px solid #666;
+  box-shadow: 1px 1px 5px #888;
+}
+
+#dsWrapper h1, h2, #dsWrapper > ul {margin: 2% 5%;}
+
+#dsWrapper h1, h2 {margin-left: 10%;}
+
+#dsWrapper > hr {width: 90%;}
+
+#dsWrapper section {
+  text-align: center;
+  font-size: 2em;
+  border-bottom: 1px solid #666;
+}
