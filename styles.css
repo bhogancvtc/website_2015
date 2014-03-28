@@ -1,3 +1,14 @@
+body {
+  font-family:arial, courier;
+}
+
+section {
+  background-color: #EDE;
+  padding:1em;
+  color: #868;
+}
+
+
 #banderson_wrapper ul{
 }
 
@@ -17,6 +28,7 @@
    border-bottom: 1px solid black;
 }
 
+
 #mforschler_body {
     background-color: #504A4B;
     color: #FFF;
@@ -29,3 +41,4 @@
 #mforschler_h1 {
     text-align:center;
 }
+
