@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   font-family:arial, courier;
 }
@@ -8,3 +9,23 @@ section {
   color: #868;
 }
 
+=======
+#banderson_wrapper ul{
+}
+
+#banderson_wrapper h1{
+   font-weight: 600;
+   font-size: 18;
+   padding: 5px;
+}
+
+#banderson_wrapper h3{
+   font-weight: 600;
+   font-size: 16;
+   padding: 5px;
+}
+
+#banderson_wrapper header{
+   border-bottom: 1px solid black;
+}
+>>>>>>> e0259c4d43e3bdacfbcce577bb6c4cc160cfd2d1
