@@ -59,6 +59,10 @@ section {
 
 #dsWrapper h1, h2 {margin-left: 10%;}
 
+#dsWrapper h5 {text-align: center;}
+
+#dsWrapper h5 a {color: #444;}
+
 #dsWrapper > hr {width: 90%;}
 
 #dsWrapper section {
