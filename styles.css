@@ -27,6 +27,19 @@ section {
    border-bottom: 1px solid black;
 }
 
+#mforschler_body {
+    background-color: #493D26;
+    color: #728C00;
+    width: 960px;
+    margin:0 auto;
+    text-align: left;
+    text-shadow: 2px 1px 1px rgba(39, 44, 39, 1);
+}
+
+#mforschler_h1 {
+    text-align:center;
+}
+
 #billy_wrapper{
   background-color:#f87531;
   text-align: center;
