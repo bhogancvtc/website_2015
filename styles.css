@@ -55,15 +55,25 @@ section {
   box-shadow: 1px 1px 5px #888;
 }
 
-#dsWrapper h1, h2, #dsWrapper > ul {margin: 2% 5%;}
+#dsWrapper h1, h2, #dsWrapper > ul {
+  margin: 2% 5%;
+}
 
-#dsWrapper h1, h2 {margin-left: 10%;}
+#dsWrapper h1, h2 {
+  margin-left: 10%;
+}
 
-#dsWrapper h5 {text-align: center;}
+#dsWrapper h5 {
+  text-align: center;
+}
 
-#dsWrapper h5 a {color: #444;}
+#dsWrapper h5 a {
+  color: #444;
+}
 
-#dsWrapper > hr {width: 90%;}
+#dsWrapper > hr {
+  width: 90%;
+}
 
 #dsWrapper section {
   text-align: center;
