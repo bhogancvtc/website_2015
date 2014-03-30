@@ -87,3 +87,14 @@ section {
 	padding:2em;
 	color: #D65930;
 }
+
+#quang_wrapper {
+  color: red;
+  background-color: #C0C0C0;
+  padding: 0;
+}
+
+#qle {
+  color: #0000FF;
+  text-align: center;
+}
