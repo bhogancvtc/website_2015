@@ -81,6 +81,27 @@ section {
   border-bottom: 1px solid #666;
 }
 
+#tottoWrapper{
+  background: rgba(1, 1, 1, 0.5);
+  border-color: #aa1111;
+  border-style: solid;
+  width: 80%;
+  margin: 0 auto;
+}
+
+#tottoWrapper h5{
+  text-align: center;
+}
+
+#totto h5 a{
+  color: #050505;
+  text-decoration:none;
+}
+
+#tottoWrapper section{
+  box-shadow: 1px 1px 3px #fff;
+  text-align: center;
+}
 
 #sectionLM{
 	background-color: #000033;
