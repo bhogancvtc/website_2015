@@ -112,3 +112,10 @@ section {
 #sstearns3_body h2 {
 text-decoration: underline;
 }
+
+#jallegro_wrapper{
+  background: rgba(0,0,0,.8);
+  color: #fff;
+  width: 960px;
+  margin: 0 auto;
+}
