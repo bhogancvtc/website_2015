@@ -88,6 +88,7 @@ section {
 	color: #D65930;
 }
 
+<<<<<<< HEAD
 #quang_wrapper {
   color: red;
   background-color: #C0C0C0;
@@ -97,4 +98,18 @@ section {
 #qle {
   color: #0000FF;
   text-align: center;
+=======
+#sstearns3_body {
+	text-align: center;
+	background-color: #C0C0C0;
+	border-style: solid;
+	border-width: 5px;
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#sstearns3_body h2 {
+text-decoration: underline;
+>>>>>>> 862b4af03272e3e0118ddadd240de3c210489a20
 }
