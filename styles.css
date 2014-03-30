@@ -83,8 +83,8 @@ section {
 
 #tottoWrapper{
   background: rgba(1, 1, 1, 0.5);
-  border-style: solid;
   border-color: #aa1111;
+  border-style: solid;
   width: 80%;
   margin: 0 auto;
 }
@@ -99,8 +99,8 @@ section {
 }
 
 #tottoWrapper section{
-  text-align: center;
   box-shadow: 1px 1px 3px #fff;
+  text-align: center;
 }
 
 #sectionLM{
