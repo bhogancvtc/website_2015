@@ -22,7 +22,19 @@ section {
    font-size: 16;
    padding: 5px;
 }
+#nelson_bd{
+	background-color:#F8F8F8;
+}
+#nelson_wrapper{
+	color:#33C;
+	  width: 900px;
+  margin: 0 auto; 
+}
+#nelson_contact{
+ margin-left: 20px;
+ margin-top: -10px;
 
+}
 #banderson_wrapper header{
    border-bottom: 1px solid black;
 }
