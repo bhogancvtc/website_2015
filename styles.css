@@ -110,6 +110,23 @@ h5 {
 	text-align: center;
 }
 
+#mvolk1_body {
+  background-color: #F1F1D4;
+
+}
+
+.mvolk1_bold {
+  font-weight: 700;
+}
+
+#mvolk1_wrapper {
+  height: 90%;
+  width: 90%;
+  border: 2px solid #000;
+  margin: 0px auto;
+  padding: 2px;
+}
+
 #nelson_bd {
 	background-color: #F8F8F8;
 }
