@@ -97,6 +97,28 @@ h5 {
 	margin: 0 auto;
 }
 
+#mbeck_body {
+    border: solid;
+    border-color: black;
+    border-width: 2px;
+    width: 660px;
+}
+
+#mbeck_edudiv {
+    border-bottom: solid;
+    border-top: solid;
+    border-width: thin;
+    padding-left: 5px;
+}
+
+#mbeck_h1 {
+    text-align: center;
+}
+
+#mbeck_techdiv {
+    padding-left: 5px;
+}
+
 #mforschler_body {
 	background-color: #493D26;
 	color: #728C00;
