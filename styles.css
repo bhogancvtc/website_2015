@@ -13,6 +13,27 @@ h5 {
   font-weight: bold;
 }
 
+.amb_body {
+  background-color: #000;
+}
+
+.amb_common {
+  min-width: 400px;
+  background-color: #fff;
+  color: #000;
+  text-align: left;
+}
+
+.amb_header {
+  text-align: left;
+  background-color: #fff;
+  color: #000;
+}
+
+.amb_indent {
+  margin-left: 1em;
+}
+
 #banderson_wrapper ul {
 	
 }
