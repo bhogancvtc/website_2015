@@ -124,6 +124,51 @@ h5 {
   width: 960px;
 }
 
+#mark_body{
+  background-color: #888;
+  border: solid;
+  border-color: #000;
+  border-width 3px;
+  text-align: center;
+  width: 700px;
+}
+
+#mark_wrapper{
+  background-color: #eee;
+  padding: 20px;
+}
+
+#mark_wrapper h1,
+#mark_wrapper h2,
+#mark_wrapper h3,{
+  margin: 0;
+  padding: 10px;
+}
+
+#mark_wrapper h1{
+  background-color: #999;
+}
+
+#mark_wrapper h2{
+  background-color: #bbb;
+}
+
+#mark_wrapper h3{
+  background-color: #ddd;
+  padding: 5px;
+}
+
+#mark_wrapper ul{
+  list-style: none;
+}
+
+#mbeck_body {
+  border: solid;
+  border-color: black;
+  border-width: 2px;
+  width: 660px;
+}
+
 #mbeck_body {
   border: solid;
   border-color: black;
