@@ -1,15 +1,20 @@
 body {
-	font-family: arial, courier;
+  font-family: arial, courier;
 }
 
-section {
-	background-color: #EDE;
-	padding: 1em;
-	color: #868;
+.container {
+  margin: 0 auto;
+  width: 80%;
+}
+
+main {
+  background-color: #EDE;
+  color: #868;
+  padding: 1em;
 }
 
 h5 {
-  text-align: center; 
+  text-align: center;
   font-weight: bold;
 }
 
@@ -25,137 +30,133 @@ h5 {
 }
 
 .amb_header {
-  text-align: left;
   background-color: #fff;
   color: #000;
+  text-align: left;
 }
 
 .amb_img {
-  opacity: 0.9;
   border-radius: 3px 3px 3px 3px;
+  opacity: 0.9;
 }
 
 .amb_indent {
   margin-left: 1em;
 }
 
-#banderson_wrapper ul {
-	
-}
-
 #banderson_wrapper h1 {
-	font-weight: 600;
-	font-size: 18px;
-	padding: 5px;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 5px;
 }
 
 #banderson_wrapper h3 {
-	font-weight: 600;
-	font-size: 16px;
-	padding: 5px;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 5px;
 }
 
 #banderson_wrapper header {
-	border-bottom: 1px solid black;
+  border-bottom: 1px solid black;
 }
 
 #billy_wrapper {
-	background-color: #f87531;
-	text-align: center;
+  background-color: #f87531;
+  text-align: center;
 }
 
 #djones_wrapper h1 {
-	font-weight: bold;
-	font-size: 18px;
-	padding: 5px;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 5px;
 }
 
 #djones_wrapper h3 {
-	font-weight: bold;
-	font-size: 16px;
-	padding: 5px;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 5px;
 }
 
 #djones_wrapper header {
-	border-bottom: 1px solid black;
+  border-bottom: 1px solid black;
 }
 
 #dsWrapper {
-	background: rgba(0, 0, 0, 0.125);
-	max-width: 1024px;
-	width: 100%;
-	margin: 0 auto;
-	min-height: 768px;
-	border: 1px solid #666;
-	box-shadow: 1px 1px 5px #888;
+  background: rgba(0, 0, 0, 0.125);
+  border: 1px solid #666;
+  box-shadow: 1px 1px 5px #888;
+  max-width: 1024px;
+  margin: 0 auto;
+  min-height: 768px;
+  width: 100%;
 }
 
 #dsWrapper h1,h2,#dsWrapper>ul {
-	margin: 2% 5%;
+  margin: 2% 5%;
 }
 
-#dsWrapper h1,h2 {
-	margin-left: 10%;
+#dsWrapper h1, #dsWrapper h2 {
+  margin-left: 10%;
 }
 
 #dsWrapper h5 {
-	text-align: center;
+  text-align: center;
 }
 
 #dsWrapper h5 a {
-	color: #444;
+  color: #444;
 }
 
-#dsWrapper>hr {
-	width: 90%;
+#dsWrapper > hr {
+  width: 90%;
 }
 
 #dsWrapper section {
-	text-align: center;
-	font-size: 2em;
-	border-bottom: 1px solid #666;
+  text-align: center;
+  font-size: 2em;
+  border-bottom: 1px solid #666;
 }
 
 #jallegro_wrapper {
-	background: rgba(0, 0, 0, .8);
-	color: #fff;
-	width: 960px;
-	margin: 0 auto;
+  background: rgba(0, 0, 0, .8);
+  color: #fff;
+  margin: 0 auto;
+  width: 960px;
 }
 
 #mbeck_body {
-    border: solid;
-    border-color: black;
-    border-width: 2px;
-    width: 660px;
+  border: solid;
+  border-color: black;
+  border-width: 2px;
+  width: 660px;
 }
 
 #mbeck_edudiv {
-    border-bottom: solid;
-    border-top: solid;
-    border-width: thin;
-    padding-left: 5px;
+  border-bottom: solid;
+  border-top: solid;
+  border-width: thin;
+  padding-left: 5px;
 }
 
 #mbeck_h1 {
-    text-align: center;
+  text-align: center;
 }
 
 #mbeck_techdiv {
-    padding-left: 5px;
+  padding-left: 5px;
 }
 
 #mforschler_body {
-	background-color: #493D26;
-	color: #728C00;
-	width: 960px;
-	margin: 0 auto;
-	text-align: left;
-	text-shadow: 2px 1px 1px rgba(39, 44, 39, 1);
+  background-color: #493D26;
+  color: #728C00;
+  width: 960px;
+  margin: 0 auto;
+  text-align: left;
+  text-shadow: 2px 1px 1px rgba(39, 44, 39, 1);
 }
 
 #mforschler_h1 {
-	text-align: center;
+  text-align: center;
 }
 
 #mvolk1_body {
@@ -167,26 +168,26 @@ h5 {
 }
 
 #mvolk1_wrapper {
-  height: 90%;
-  width: 90%;
   border: 2px solid #000;
+  height: 90%;
   margin: 0px auto;
   padding: 2px;
+  width: 90%;
 }
 
 #nelson_bd {
-	background-color: #F8F8F8;
+  background-color: #F8F8F8;
 }
 
 #nelson_wrapper {
-	color: #33C;
-	width: 900px;
-	margin: 0 auto;
+  color: #33C;
+  width: 900px;
+  margin: 0 auto;
 }
 
 #nelson_contact {
-	margin-left: 20px;
-	margin-top: -10px;
+  margin-left: 20px;
+  margin-top: -10px;
 }
 
 .phan_school {
@@ -201,13 +202,13 @@ h5 {
 
 .phan_wrapper {
   background-color: rgba(192, 129, 129, .4);
-  border: 2px dotted orange;  
+  border: 2px dotted orange;
 }
 
 #sectionLM {
-	background-color: #000033;
-	padding: 2em;
-	color: #D65930;
+  background-color: #000033;
+  color: #D65930;
+  padding: 2em;
 }
 
 #sschlinsogExperience {
@@ -223,68 +224,68 @@ h5 {
 }
 
 #sstearns3_body {
-	text-align: center;
-	background-color: #C0C0C0;
-	border-style: solid;
-	border-width: 5px;
-	width: 700px;
-	margin-left: auto;
-	margin-right: auto;
+  background-color: #C0C0C0;
+  border-style: solid;
+  border-width: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 700px;
 }
 
 #sstearns3_body h2 {
-	text-decoration: underline;
+  text-decoration: underline;
 }
 
 #tottoWrapper {
-	background: rgba(1, 1, 1, 0.5);
-	border-color: #aa1111;
-	border-style: solid;
-	width: 80%;
-	margin: 0 auto;
+  background: rgba(1, 1, 1, 0.5);
+  border-color: #aa1111;
+  border-style: solid;
+  width: 80%;
+  margin: 0 auto;
 }
 
 #tottoWrapper h5 {
-	text-align: center;
+  text-align: center;
 }
 
 #totto h5 a {
-	color: #050505;
-	text-decoration: none;
+  color: #050505;
+  text-decoration: none;
 }
 
 #tottoWrapper section {
-	box-shadow: 1px 1px 3px #fff;
-	text-align: center;
+  box-shadow: 1px 1px 3px #fff;
+  text-align: center;
 }
 
 #qle {
-	color: #0000FF;
-	text-align: center;
+  color: #0000FF;
+  text-align: center;
 }
 
 #quang_wrapper {
-	color: red;
-	background-color: #C0C0C0;
-	padding: 0;
+  color: red;
+  background-color: #C0C0C0;
+  padding: 0;
 }
 
 #egwiazda_wrapper {
-	color: red;
-	background-color: #0000FF;
+  color: red;
+  background-color: #0000FF;
 }
 
 #dschmidt_wrapper {
-	background-color: #414141;
-	color: #fff;
+  background-color: #414141;
+  color: #fff;
 }
 
 .cbutterfield7 {
-  text-align: center;
   background-color: #39765e;
+  text-align: center;
 }
 
 .cbutterfield7 h2 {
-  text-decoration: underline;
   margin: 0;
+  text-decoration: underline;
 }
