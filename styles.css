@@ -43,7 +43,15 @@ h5 {
 .amb_indent {
   margin-left: 1em;
 }
+.apapierniak {
+  background-color: #ddd;
+  text-align: center;
+}
 
+.apapierniak h2 {
+ 
+  text-decoration: underline;
+}
 #banderson_wrapper h1 {
   font-weight: 600;
   font-size: 18px;
