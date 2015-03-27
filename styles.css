@@ -353,6 +353,11 @@ h5 {
   width: 700px;
 }
 
+#kolsen_body{
+  background-color: #dddabd;
+  text-align: left;
+}
+
 #miller_wrap {
   background-color: #c4cddb;
   border: solid 1px #000;
@@ -369,12 +374,14 @@ h5 {
   margin: 0;
   padding: 0;
 }
+
 #miller_wrap h1 { text-decoration: underline; }
 
 #miller_contact, #miller_education, #miller_workxp {
   list-style-type: none;
   padding-left: 25px;
 }
+
 #miller_workxp h3 {
   margin-top: 0;
 }
