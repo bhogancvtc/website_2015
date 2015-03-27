@@ -352,3 +352,34 @@ h5 {
   text-align: center;
   width: 700px;
 }
+
+#miller_wrap {
+  background-color: #c4cddb;
+  border: solid 1px #000;
+  font-family: 'CordiaUPC';
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  margin: 0 auto;
+  padding-left: 20px;
+  text-align: left;
+  width: 550px;  
+}
+
+#miller_contact, #miller_education, #miller_workxp, #miller_wrap h1, #miller_wrap h2, #miller_wrap h3, li, ul { 
+  margin: 0;
+  padding: 0;
+}
+#miller_wrap h1 { text-decoration: underline; }
+
+#miller_contact, #miller_education, #miller_workxp {
+  list-style-type: none;
+  padding-left: 25px;
+}
+#miller_workxp h3 {
+  margin-top: 0;
+}
+
+#miller_workxp li, #miller_education li {
+  list-style-type: none;
+  padding-left: 20px;  
+}
