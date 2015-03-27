@@ -370,7 +370,7 @@ h5 {
   width: 550px;  
 }
 
-#miller_contact, #miller_education, #miller_workxp, #miller_wrap h1, #miller_wrap h2, #miller_wrap h3, li, ul { 
+#miller_contact, #miller_education, #miller_workxp, #miller_wrap h1, #miller_wrap h2, #miller_wrap h3, #miller_wrap li, #miller_wrap ul { 
   margin: 0;
   padding: 0;
 }
