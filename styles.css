@@ -68,6 +68,16 @@ h5 {
   border-bottom: 1px solid black;
 }
 
+.bdawson6_wrapper {
+  border-style: solid;
+  border-width: 2px;
+  width: 20%;
+}
+
+.bdawson6_wrapper > h2{
+  text-decoration: underline;
+}
+
 #billy_wrapper {
   background-color: #f87531;
   text-align: center;
