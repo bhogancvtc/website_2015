@@ -403,7 +403,13 @@ h5 {
 
 #cknapp_body{
  background-color:#CC6600;
- 
+ text-align: center;
+ width: 800px;
+}
+
+#cody_wrapper h1, h2, h3, h4{
+  margin: 0;
+  padding: 5px;
 }
 #cknapp_body ul{
   list-style-type: none;
