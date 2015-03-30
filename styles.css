@@ -406,11 +406,16 @@ h5 {
  text-align: center;
  width: 800px;
 }
+#cknapp_body p{
+  padding:0;
+  margin:0;
+}
 
 #cody_wrapper h1, h2, h3, h4{
   margin: 0;
-  padding: 5px;
+  padding: 1px;
 }
+
 #cknapp_body ul{
   list-style-type: none;
 }
