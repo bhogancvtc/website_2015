@@ -493,3 +493,36 @@ h5 {
 #eher_wrapper li{
   list-style-type: none;
 }
+
+#cSiessWrapper{
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+}
+
+#cSiessWrapper h1{
+  border: 3px solid;
+  border-color: white;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+  
+}
+
+#cSiessInfo {
+  border: 3px solid;
+  border-color: white;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+
+#cSiessWrapper h2{
+  text-decoration: underline;
+}
+
+#cSiessWrapper ul{
+  list-style: none;
+}
