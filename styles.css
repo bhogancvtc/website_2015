@@ -526,3 +526,43 @@ h5 {
 #cSiessWrapper ul{
   list-style: none;
 }
+
+body#emily {
+  background-color: #FFF !important;
+  font-family: Lato, sans-serif;
+  border-left: 100px solid #F07221;
+  border-right: 100px solid #F07221;
+  width: 80%;
+  margin: auto;
+}
+
+#emily div.orange {
+  background-color: #F07221;
+  height: 200px;
+}
+
+#emily header p {
+  margin: 0;
+}
+
+#emily h1 {
+  color: #f07221;
+  text-transform: uppercase;
+  font-weight: 900;
+  margin: 0;
+}
+
+#emily h2 {
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+#emily header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#emily p.date {
+  font-weight: bold;
+  margin: 0;
+}
