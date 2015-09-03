@@ -471,3 +471,58 @@ h5 {
 #steven_body {
   background-color: blue;
 }
+
+#eher_wrapper{
+  background-color: #B2E0C2;
+  border: solid 1px #000;
+  font-family: 'serif';
+  font-size: 15px;
+  margin: 0 auto;
+  padding-left: 20px;
+  text-align: left;
+  width: 550px;
+  list-style-type: none;
+  border-radius: 10px;
+  box-shadow: 10px 2px #535358;
+}
+
+#eher_wrapper > h1{
+  border-bottom: solid 2px #626263;
+}
+
+#eher_wrapper li{
+  list-style-type: none;
+}
+
+#cSiessWrapper{
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+}
+
+#cSiessWrapper h1{
+  border: 3px solid;
+  border-color: white;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+  
+}
+
+#cSiessInfo {
+  border: 3px solid;
+  border-color: white;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+}
+
+#cSiessWrapper h2{
+  text-decoration: underline;
+}
+
+#cSiessWrapper ul{
+  list-style: none;
+}
