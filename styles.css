@@ -566,3 +566,30 @@ body#emily {
   font-weight: bold;
   margin: 0;
 }
+
+#ian {
+  background-color: dimgray;
+}
+
+#ian div {
+  height: 800px;
+  width: 75%;
+  margin-left: 15%;
+  background-color: beige;
+  border-bottom-left-radius: 2%;
+  border-bottom-right-radius: 2%;
+  border-top-left-radius: 2%;
+  border-top-right-radius: 2%;
+}
+
+#ian h1{
+  margin-left: 5%;
+}
+
+#ian p {
+  margin-left: 5%;
+}
+
+#ian h3 {
+  margin-left: 5%;
+}
