@@ -639,3 +639,9 @@ body#emily {
   background-color: darkgreen;
   padding-left: 20px;
 }
+
+#edbody {
+  background-color: burlywood;
+  margin: 10px auto;
+  width: 960px;
+}
