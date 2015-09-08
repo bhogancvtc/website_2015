@@ -118,6 +118,23 @@ h5 {
   font-size: 25px;
 }
 
+#caleb_body{
+  background-image: url(images/calebBackground.jpg);
+  background-color: black;
+  color:white;
+  padding: 20px;
+}
+ 
+#caleb_link{
+  background-color: gray;
+  color:black;
+  padding: 5px;
+}
+#caleb_wrapper{
+  background-color: gray;
+  color:white;
+  padding: 15px}
+
 #DeeDee_wrapper{
   background-color: #414141;
   color: #fff;
