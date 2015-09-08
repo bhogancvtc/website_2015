@@ -188,6 +188,12 @@ h5 {
   color: DarkBlue;
 }
 
+.jordan_info {
+ background-color: #77F;
+ margin: 4px;
+ padding: 3px;
+}
+
 #mark_body{
   background-color: #888;
   border: solid;
