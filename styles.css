@@ -118,6 +118,23 @@ h5 {
   font-size: 25px;
 }
 
+#caleb_body{
+  background-image: url(images/calebBackground.jpg);
+  background-color: black;
+  color:white;
+  padding: 20px;
+}
+ 
+#caleb_link{
+  background-color: gray;
+  color:black;
+  padding: 5px;
+}
+#caleb_wrapper{
+  background-color: gray;
+  color:white;
+  padding: 15px}
+
 #DeeDee_wrapper{
   background-color: #414141;
   color: #fff;
@@ -186,6 +203,12 @@ h5 {
 .jWoods {
   background-color: Beige;
   color: DarkBlue;
+}
+
+.jordan_info {
+ background-color: #77F;
+ margin: 4px;
+ padding: 3px;
 }
 
 #mark_body{
@@ -594,6 +617,7 @@ body#emily {
   margin-left: 5%;
 }
 
+<<<<<<< HEAD
 #jessica {
   background-color: #003300;
 }
@@ -615,4 +639,33 @@ body#emily {
 
 #jessica h1 {
   font-family: armenian;
+=======
+#fmanka_info h1 {
+  color: black;
+  padding-left: 20px;
+  margin: 15px;
+}
+
+#fmanka_info h2, h3, p {
+  color: black;
+  margin: 0;
+  padding: 3px;
+}
+
+#fmanka_info p {
+  color: black;
+  margin: 0;
+  padding: 5px;
+}
+
+#fmanka_wrapper {
+  background-color: darkgreen;
+  padding-left: 20px;
+}
+
+#edbody {
+  background-color: burlywood;
+  margin: 10px auto;
+  width: 960px;
+>>>>>>> 3d0bc05dd68381e42fddee1e74a27653075cb31a
 }
