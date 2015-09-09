@@ -18,6 +18,20 @@ h5 {
   font-weight: bold;
 }
 
+header.sbristol1-header > small {
+  margin-left: 10px;
+}
+
+ul.sbristol1-unbulleted > li {
+  list-style-type: none;
+  margin-bottom: 5px;
+}
+
+ul.sbristol1-square > li {
+  list-style-type: square;
+  margin-top: 5px;
+}
+
 .amb_body {
   background-color: #000;
 }
