@@ -593,3 +593,26 @@ body#emily {
 #ian h3 {
   margin-left: 5%;
 }
+
+#jessica {
+  background-color: #003300;
+}
+
+#jessica div {
+  width: 900px;
+  margin: auto;
+  background-color: white;
+  border-radius: 30px;
+  padding: 1em;
+  box-shadow: 10px 5px #585858;
+}
+
+#jessica header {
+ text-align: center;
+ padding: auto;
+ border-bottom: 1px;
+}
+
+#jessica h1 {
+  font-family: armenian;
+}
